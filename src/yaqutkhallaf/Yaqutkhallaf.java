@@ -50,7 +50,7 @@ public class Yaqutkhallaf {
                     }
                     break;
                 case 3:
-                    //
+            coffeeMachine.checkMachineStatus();
                     break;
                 case 4:
                     System.out.println("Exit");
